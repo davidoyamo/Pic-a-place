@@ -1,0 +1,14 @@
+.body{
+    padding-top: 70px;
+    padding-bottom: 70px;
+    height: 100%;
+    width: 100%;
+    color: black;
+}
+.jumbotron{
+    background-image: url(../images/plan.jpg);
+    background-size: cover;
+}
+.card-group{
+    margin: 20px;
+}
